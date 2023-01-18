@@ -59,7 +59,7 @@ let descripcion = "Este es un producto de prueba"
 let precio = 200;
 let img = "sin imagen"
 let code = "a1"
-let stock = 25;
+let stock = 10;
 productos.addProduct(titulo, descripcion, precio, img, code, stock);
 console.log(productos.getProducts());
 productos.addProduct(titulo, descripcion, precio, img, code, stock);
